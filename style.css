@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+}
+
+h1 {
+    width: fit-content;
+    margin: auto;
+}
+
+.caixa {
+    border-radius: 5px;
+}
+
+.pai {
+    width: 80%;
+    height: 400px;
+    margin: auto;
+    background-color: antiquewhite;
+    border: solid 2px black;
+    display: flex;
+    flex-direction: column; /*Direção do flex*/
+    justify-content: space-evenly;  /*alinha os elementos na horizontal*/
+    align-items: center; /*alinha os elementos na vertica*/
+    
+}
+
+.filho {
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+}
+
+.circulo1 {
+    background-color: #a00498;
+    align-self: flex-start;
+}
+
+.circulo2 {
+    background-color: #5500ff;
+}
+
+.circulo3 {
+    background-color: #ff0044;
+    align-self: flex-end;
+}
