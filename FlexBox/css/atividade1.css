@@ -1,0 +1,124 @@
+
+.container1{
+    width: 60%;
+    height: 50px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+    background: #d4d4d4;
+}
+
+.container2{
+    margin-top: 10px;
+    width: 60%;
+    height: 50px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: row;
+    background: #d4d4d4;
+}
+
+.container3{
+    margin-top: 10px;
+    width: 60%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    background: #d4d4d4;
+}
+
+.container4{
+    margin-top: 10px;
+    width: 60%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: row;
+    background: #d4d4d4;
+}
+
+.container5{
+    margin-top: 10px;
+    width: 60%;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    background: #d4d4d4;
+}
+
+.container6{
+    margin-top: 10px;
+    width: 60%;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    background: #d4d4d4;
+}
+
+.container-exercicioB{
+    margin-top: 10px;
+    width: 60%;
+    height: 200px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex-direction: column-reverse;
+    background: #d4d4d4;
+}
+
+.container-desafio{
+    margin-top: 10px;
+    width: 60%;
+    height: 50px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    flex-direction: row-reverse;
+    background: #d4d4d4;
+}
+
+.quadrado1{
+    width: 50px;
+    height: 50px;
+    background: #72bdf0;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.quadrado2{
+    width: 50px;
+    height: 50px;
+    background: #0d5985;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.quadrado3{
+    width: 50px;
+    height: 50px;
+    background: #f00295;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.quadrado4{
+    width: 50px;
+    height: 50px;
+    background: #e4b20e;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
